@@ -21,4 +21,5 @@ checkpoints/
 checkpoints_*/
 wmt14_data/
 multi30k_data/
+example2/
 *:Zone.Identifier
